@@ -1,0 +1,22 @@
+body {
+    background-image: url(background3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+img {
+    filter: drop-shadow(3px 3px #ABB2B9);
+    width: 600px;
+    height: 450px;
+    border-radius: 50%;
+}
+
+h1 {
+    color: #ffffff;
+    text-shadow: 1px 2px 5px black;
+}
+
+h2 {
+    color: rgb(0, 304, 155);
+    text-shadow: 1px 1px 3px darkblue;
+}
